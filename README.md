@@ -17,5 +17,7 @@ Nas horas vagas crio alguns projetos como Designer Gráfico.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title = "Photoshop"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" title = "Behance"/><code />
 
+##
+
 ![Snake animation](https://github.com/mqlima/mqlima/blob/output/github-contribution-grid-snake.svg)
 
